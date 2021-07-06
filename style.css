@@ -1,0 +1,53 @@
+body{
+    margin: auto;
+    font-family: 'Merriweather', serif;
+
+}
+section{
+    display: flex;
+ 
+}
+#bg-color{
+    background-color: #D0E485; 
+}
+div{
+    margin-right: 50px;
+    height: 450px;
+    width: 50%;
+    padding-top:80px ;
+    padding-left:60px;
+   
+}
+h1{
+    font-weight: 800px;   
+}
+    
+#color{
+    color:#FCA502;
+    padding-left: 70px;
+} 
+
+a{
+    text-decoration: none;
+}
+.button{
+    color: white;
+    background-image:linear-gradient(#FFEF45, #CB0A03) ;
+    padding: 10px 30px;
+    border-radius: 15px;
+    font-weight: 700px;
+}
+#second-sec{
+    background-image: url(photo2.png);
+    height: 400px;
+}
+
+#second-img{
+    padding-left: 30px;
+}
+
+
+    
+
+
+
