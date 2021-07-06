@@ -15,11 +15,12 @@ div{
     height: 450px;
     width: 50%;
     padding-top:80px ;
-    padding-left:60px;
+    padding-left:70px;
    
 }
 h1{
-    font-weight: 800px;   
+    font-weight: 800px; 
+    font-size: 30px;  
 }
     
 #color{
@@ -45,7 +46,62 @@ a{
 #second-img{
     padding-left: 30px;
 }
+#third-sec{
+    display:block;
+    padding-left: 420px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #F7F8FA;
+}
+#sec-3-h2{
+    padding-left: 40px;
+}
+ .fourth-sec-div{
+        padding-bottom: 30px;
+        padding-top: 15px;
+        height: 450px;
+        margin-top: 15px;
+        box-shadow: 10px 12px 20px gray;
+        border-radius: 10px;
+    }
 
+#sec-5{
+    background-color:#8AAF34;
+    height: 300px;
+    margin: 50px 20px;
+    box-shadow: 10px 12px 15px gray;
+    }
+ .div-5{
+        padding: 20px;
+        padding-left: 50px;
+    }
+.img-5{
+        padding-left: 10px;
+    }
+.link1{
+        display: block;
+        padding-left: 100px;
+        padding-top: 10px;
+    }
+.sixth-sec-div{
+    height: 60px;
+    padding-bottom: 50px;
+    margin-left: 20px;
+}
+footer{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 450px;
+    background-color: black;
+    color: white;
+}
+footer h5{
+    font-size: 20px;
+    padding-left:50px ;
+}
+footer p{
+    font-size: 14px;
+}
 
     
 
